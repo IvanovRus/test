@@ -14,21 +14,11 @@
         <style>
             html, body {
                 background-color: #fff;
-                color: #636b6f;
-                font-family: 'Raleway', sans-serif;
-                font-weight: 100;
-                height: 100vh;
-                margin: 0;
+               
             }
 
             .full-height {
                 height: 100vh;
-            }
-
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
             }
 
             .position-ref {
@@ -42,7 +32,8 @@
             }
 
             .content {
-                text-align: center;
+               width: 75%;
+				margin: auto;
             }
 
             .title {
@@ -62,6 +53,30 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+			h5 {
+				margin-top: 0.53cm;
+				margin-bottom: 0.26cm;
+				border-top: none;
+				border-bottom: 1px solid #cccccc;
+				border-left: none;
+				border-right: none;
+				padding-top: 0cm;
+				padding-bottom: 0.05cm;
+				padding-left: 0cm;
+				padding-right: 0cm;
+				color: #66a700;
+				text-align: left;
+				page-break-after: avoid;
+			}
+			.user-img {
+				width:180px;
+				height:200px;
+				float: left;
+				margin-right: 50px;
+			}
+			.user-info-row {
+				display:table;
+			}
         </style>
     </head>
     <body>
@@ -78,18 +93,73 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
+				<img class="user-img" src="/img/koala.jpg"></img>
 
-                    Laravel
-
-                </div>
-
-                <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                <div class="user-info">
+                    <p style="margin-left: 0cm">
+					<span lang="ru-RU"><b>Web-программист</b></span><br>
+					<span lang="ru-RU"><b>Иванов Руслан Владимирович</b></span>
+					<br><b>Дата рождения:</b> 14 августа1991
+					г.<br><b>Телефон</b> +7<span lang="en-US">9674902016</span><br><b>E-mail:</b>
+					89674902016<span lang="en-US">@yandex.ru</span>
+					<br><b>Город:</b> Тольятти.</p>
+				</div>
+					<div class="user-info-row"><h5 class="western">Образование:</h5>
+					<p>2009-2014 гг. – ПВГУС, Радиотехник.</p>
+					<h5 class="western">Опыт работы:</h5>
+					<p>20016-      гг.,ООО Терция- программист.</p>
+					<p><b>Обязанности:</b></p>
+					<ul>
+						<li><p style="margin-bottom: 0cm">создание программных продуктов на
+						языках HTML, <span lang="en-US">JS</span>, <span lang="en-US">PHP,
+						AJAX, XML;</span> 
+						</p>
+						</li><li><p style="margin-bottom: 0cm"><span lang="ru-RU">поддержка
+						собственной </span><span lang="en-US">CRM</span></p>
+						</li><li><p style="margin-bottom: 0cm">разработка веб-приложений; 
+						</p>
+					</li></ul>
+					<h5 class="western">Прочие навыки:</h5>
+					<ul>
+						<li><p lang="en-US" style="margin-bottom: 0cm">Php, css, js, ajax,
+						git</p>
+						</li><li><p style="margin-bottom: 0cm">ООП</p>
+					</li></ul>
+					<h5 class="western">Поверхностные навыки (изучал,мало использовал):</h5>
+					<ul>
+						<li><p style="margin-bottom: 0cm"><span lang="en-US">Yii, Vue.js,
+						Redis</span></p>
+						</li><li><p style="margin-bottom: 0cm"><font face="Arial"><font size="2" style="font-size: 9pt"><span lang="en-US"><span style="font-weight: normal"><span style="background: #e5dfec">Фреймворк
+						Laravel не знаю, но недавно начал его изучать</span></span></span></font></font></p>
+					</li></ul>
+					<h5 class="western"><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">Личные
+					качества</span></span></font></font></h5>
+					<p><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">Потом
+					найду в гугле и скопираю, а так человек вроде хороший.</span></span></font></font></p>
+					<h5 class="western"><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">Описание</span></span></font></font></h5>
+					<p><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">На
+					текущей работе разрабатывал и поддерживал </span></span></font></font><font face="Arial"><font size="2" style="font-size: 9pt"><span lang="en-US"><span style="font-weight: normal"><span style="background: #e5dfec">CRM
+					 <a href="https://gora.online/">https://gora.online</a>.  </span></span></span></font></font><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">В
+					частности разработал модуль Бухгалтерия(Зарплата и кадры), модуль
+					отслеживания курьера, интеграцию других систем с нашей(конкретно
+					загрузка товара), интеграция нашей системы с облачными онлайн
+					кассами, доработка собственного фреймворка. Принимал участие в
+					разработке проекта <a href="https://jbs.expert/">https://jbs.expert</a>.
+					 Вообщем участвовал во всех передрягах никогда ни от чего не
+					отказывался.</span></span></font></font></p>
+					<p><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">На
+					текущем месте работы не используется современные инструменты
+					разработки, думаю</span></span></font></font><font face="Arial"><font size="2" style="font-size: 9pt"><span lang="en-US"><span style="font-weight: normal"><span style="background: #e5dfec">
+					</span></span></span></font></font><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">они
+					дементоры и хотят высосать всю радость с программиста)))). В связи с
+					этим затормозилось развитие в программировании и стало скучно,
+					поэтому захотелось поменять место работы, где будут использоваться
+					инструменты радующие слух программиста. </span></span></font></font>
+					</p>
+					<p><font color="#555555"><font face="Helvetica, sans-serif"><font size="3"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: #e5dfec">Спасибо
+					за уделенное время и внимание.</span></span></span></font></font></font><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">
+					</span></span></font></font>
+					</p>
                 </div>
             </div>
         </div>
