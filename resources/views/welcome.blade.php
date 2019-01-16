@@ -69,7 +69,7 @@
 				page-break-after: avoid;
 			}
 			.user-img {
-				width:180px;
+				width:160px;
 				height:200px;
 				float: left;
 				margin-right: 50px;
@@ -93,7 +93,7 @@
             @endif
 
             <div class="content">
-				<img class="user-img" src="/img/koala.jpg"></img>
+				<img class="user-img" src="http://hit-on.ru/file/hiton/0b4d4ae213a9fd0e961fe4fd39a0e5af.jpg"></img>
 
                 <div class="user-info">
                     <p style="margin-left: 0cm">
