@@ -148,7 +148,7 @@
 					 Вообщем участвовал во всех передрягах никогда ни от чего не
 					отказывался.</span></span></font></font></p>
 					<p><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">На
-					текущем месте работы не используется современные инструменты
+					текущем месте работы не используются современные инструменты
 					разработки, думаю</span></span></font></font><font face="Arial"><font size="2" style="font-size: 9pt"><span lang="en-US"><span style="font-weight: normal"><span style="background: #e5dfec">
 					</span></span></span></font></font><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">они
 					дементоры и хотят высосать всю радость с программиста)))). В связи с
