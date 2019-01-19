@@ -135,8 +135,14 @@
 					</li></ul>
 					<h5 class="western"><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">Личные
 					качества</span></span></font></font></h5>
-					<p><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">Потом
-					найду в гугле и скопираю, а так человек вроде хороший.</span></span></font></font></p>
+					<p><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">любовь к своему делу;
+добросовестность;ответственность;усидчивость;нацеленность на решение задач;
+обучаемость,стремление к профессиональному развитию и обучению</span></span></font></font></p>
+
+<h5 class="western"><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">Увлечения</span></span></font></font></h5>
+					<p><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">настольный тенис;катание на каньках;рыбалка;усовершенствование автомобилей;игра в шахматы;интерес к компьютерным, программным и техническим новшествам;</span></span></font></font></p>
+
+
 					<h5 class="western"><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">Описание</span></span></font></font></h5>
 					<p><font face="Arial"><font size="2" style="font-size: 9pt"><span style="font-weight: normal"><span style="background: #e5dfec">На
 					текущей работе разрабатывал и поддерживал </span></span></font></font><font face="Arial"><font size="2" style="font-size: 9pt"><span lang="en-US"><span style="font-weight: normal"><span style="background: #e5dfec">CRM
