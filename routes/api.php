@@ -13,6 +13,15 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
-});
+Route::get('/user', function (Request $request) {
+    return 12;
+})->middleware('auth:api');
+
+//POST запрос создания поста
+Route::post('posters', 'PostersController@store');
+
+//GET запрос полученя постов
+Route::get('posters', 'PostersController@show');
+
+//GET запрос удаления поста
+Route::delete('posters', 'PostersController@destroy');
